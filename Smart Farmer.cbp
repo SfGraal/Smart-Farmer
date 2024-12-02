@@ -32,7 +32,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Nivele/nivel1.txt" />
+		<Unit filename="Nivele/nivel2.txt" />
+		<Unit filename="Nivele/nivel3.txt" />
+		<Unit filename="Nivele/nivel4.txt" />
+		<Unit filename="Nivele/nivel5.txt" />
 		<Unit filename="main.cpp" />
+		<Unit filename="piese.txt" />
 		<Extensions>
 			<code_completion />
 			<envvars />
